@@ -14,6 +14,7 @@ An advanced, collegiate-level autonomous firefighting robot built for the **Robo
 
 ## 🚀 Watch it in Action
 
+https://github.com/user-attachments/assets/ba310bc8-4257-4390-9a78-b4f64873098d
 
 
 ---
@@ -58,6 +59,6 @@ An 8x8 VL53L5CX ToF Laser Matrix acts as the robot's depth perception. Once it r
 ---
 
 
-https://github.com/user-attachments/assets/ba310bc8-4257-4390-9a78-b4f64873098d
+
 
 
