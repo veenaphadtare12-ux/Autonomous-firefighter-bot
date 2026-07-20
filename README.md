@@ -9,7 +9,8 @@ An advanced, collegiate-level autonomous firefighting robot built for the **Robo
 <p align="center">
   <img src="assets/robot_action_shot.jpg" alt="Robot in Action" width="600"/>
   <br>
-  <em>(Replace this image with a cool photo of your robot!)</em>
+  <em>(<img width="960" height="1280" alt="WhatsApp Image 2026-07-20 at 10 09 40 PM" src="https://github.com/user-attachments/assets/0bad1562-6db8-47a1-9c82-2a5d15ddbb89" />
+)</em>
 </p>
 
 ## 🚀 Watch it in Action
