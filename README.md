@@ -1,4 +1,4 @@
- Autonomous Firefighting Robot 🔥🤖
+ ### Autonomous Firefighting Robot 🔥🤖
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
@@ -7,15 +7,14 @@
 An advanced, collegiate-level autonomous firefighting robot built for the **Robotex India** competition. This robot is powered by a Raspberry Pi 5 and utilizes a 4-tier AI architecture to navigate a maze, locate fires, and extinguish them autonomously without any human intervention.
 
 <p align="center">
-  <img src="assets/robot_action_shot.jpg" alt="Robot in Action" width="600"/>
-  <br>
+
   <em>(<img width="960" height="1280" alt="WhatsApp Image 2026-07-20 at 10 09 40 PM" src="https://github.com/user-attachments/assets/0bad1562-6db8-47a1-9c82-2a5d15ddbb89" />
 )</em>
 </p>
 
 ## 🚀 Watch it in Action
 
-[**Click here to watch the full demo video on YouTube!**](https://youtube.com) *(Add your youtube link here, or upload an mp4 to your repo!)*
+
 
 ---
 
@@ -57,4 +56,8 @@ An 8x8 VL53L5CX ToF Laser Matrix acts as the robot's depth perception. Once it r
 *   `push_to_pi.py`: Deployment script to instantly beam code to the robot over SFTP.
 
 ---
-*Built with ❤️ by Veena & [Teammate's Name]*
+
+
+https://github.com/user-attachments/assets/ba310bc8-4257-4390-9a78-b4f64873098d
+
+
