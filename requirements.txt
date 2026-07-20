@@ -1,0 +1,22 @@
+# Core Robotics Control
+gpiozero
+pigpio
+
+# I2C Sensor Libraries
+adafruit-circuitpython-vl53l5cx
+adafruit-circuitpython-mlx90614
+mpu6050-raspberrypi
+
+# Perception (YOLO Vision)
+ultralytics
+opencv-python
+
+# SLAM & Advanced Math
+numpy
+scipy
+filterpy  # For Kalman Filters
+
+# Reinforcement Learning (If training locally)
+torch
+stable-baselines3
+gymnasium

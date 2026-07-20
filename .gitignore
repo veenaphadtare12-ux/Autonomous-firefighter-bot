@@ -1,0 +1,24 @@
+# Environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Datasets & Weights
+*.pt
+*.pth
+dataset_frames/
+flame_dataset/
+new_version_dataset/
+yolo_dataset/
+runs/
+
+# IDE
+.vscode/
+.idea/
+
+# Zip files
+*.zip
+*.tar.gz
